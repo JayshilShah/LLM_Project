@@ -1,0 +1,46 @@
+Kalamang Grammar Rules:
+1. Sentence Structure: 
+   - The basic structure follows Subject-Verb-Object (SVO) order.
+   Example: "Saya makan nasi." -> "I eat rice."
+
+2. Questions: 
+   - To form a question, add the particle "ka" at the end of the sentence.
+   Example: "Kamu datang ka?" -> "Are you coming?"
+
+3. Greetings: 
+   - "Halo" -> "Hello"
+   - "Selamat pagi" -> "Good morning"
+   - "Selamat malam" -> "Good night"
+
+4. Negation: 
+   - Use the word "tidak" before a verb to negate it.
+   Example: "Saya tidak tahu." -> "I don't know."
+
+5. Plurals: 
+   - Reduplicate the noun to indicate plurality.
+   Example: "Orang" (person) -> "Orang-orang" (people)
+
+6. Possessives: 
+   - Use "punya" followed by a pronoun to express possession.
+   Example: "Ini buku saya." -> "This is my book."
+
+7. Tenses: 
+   - Use time-related words since there are no inflectional tenses.
+   Example: "Saya makan tadi." -> "I ate earlier."
+   Example: "Saya akan makan." -> "I will eat."
+
+8. Pronouns: 
+   - "Saya" -> "I"
+   - "Kamu" -> "You"
+   - "Dia" -> "He/She"
+   - "Kami" -> "We (exclusive)"
+   - "Kita" -> "We (inclusive)"
+
+9. Common Conjunctions: 
+   - "Dan" -> "And"
+   - "Atau" -> "Or"
+   - "Tetapi" -> "But"
+
+10. Adjectives: 
+   - Adjectives follow the noun.
+   Example: "Rumah besar" -> "Big house"
